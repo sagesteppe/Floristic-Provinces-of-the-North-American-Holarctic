@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Cara Meinke</origin>
+        <pubdate>2004</pubdate>
+        <title>Floristic Provinces of Sagebrush and Associated Shrub-steppe Habitats in Western North America</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://www.sciencebase.gov/catalog/item/542d85ace4b092f17defc67d</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Boundary for floristic regions used for the conservation assessment of Greater Sage-grouse and sagebrush habitat conducted by the Western Association of Fish and Wildlife Agencies. 
+
+The floristic provinces were digitized from a figure from Miller, R. F., and L. Eddleman, 2001 (See source input for reference)</abstract>
+      <purpose>This coverage defines the floristic context in which a range-wide conservation assessment of the Greater Sage-grouse and sagebrush habitats was conducted. Defining the major floristic properties of areas occupied by the historical distribution of sage grouse permitted the comparison of differences relative to the habitat characteristics and detection of potential causes of population changes or extirpation.○</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2004</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+	<descgeog>western United States</descgeog>
+      <bounding>
+        <westbc>-123.2440</westbc>
+        <eastbc>-102.4224</eastbc>
+        <northbc>50.7009</northbc>
+        <southbc>34.6442</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>ecosystems</themekey>
+        <themekey>vegetation</themekey>
+		<themekey>habitats</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>provinces</themekey>
+        <themekey>geographic subdivisions</themekey>
+		<themekey>sagebrush</themekey>
+		<themekey>Artemisia spp.</themekey>
+		<themekey>shrub-steppe</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Washington</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>California</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Wyoming</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>United States</placekey>
+        <placekey>Saskatchewan</placekey>
+        <placekey>Alberta</placekey>
+        <placekey>Canada</placekey>
+		<placekey>United States</placekey>
+        <placekey>North America</placekey>
+      </place>
+    </keywords>
+    <accconst>No access constraints</accconst>
+    <useconst>No use constraints. Users need to read the dataset's metadata thoroughly to understand appropriate use and data limitations. The U.S. Geological Survey requests to be acknowledged as originator of these data in future products or derivative research.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>FRESC Metadata Coordinator</cntper>
+          <cntorg>USGS Forest and Rangeland Ecosystem Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>777 NW 9th, Suite 400</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97330</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-750-1030</cntvoice>
+        <cntemail>fresc_outreach@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Cara Meinke</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+    <crossref>
+      <citeinfo>
+        <origin>J.W. Connelly</origin>
+        <origin>S.T. Knick</origin>
+        <origin>M.A. Schroeder</origin>
+        <origin>S.J. Stiver</origin>
+        <pubdate>2004</pubdate>
+        <title>Conservation assessment of Greater Sage-grouse and sagebrush habitats</title>
+        <geoform>unpublished report</geoform>
+        <pubinfo>
+          <pubplace>Cheyenne, WY</pubplace>
+          <publish>Western Association of Fish and Wildlife Agencies</publish>
+        </pubinfo>
+        <othercit>Hard copy of the floristic provinces can be found in Figure 1.4, Chapter 1, p. 20</othercit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Dependent upon the source data.</attraccr>
+    </attracc>
+    <logic>No tests conducted.</logic>
+    <complete>Dependent upon the source data.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Unknown</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Richard F. Miller</origin>
+            <origin>Lee Eddleman</origin>
+            <pubdate>2001</pubdate>
+            <title>Spatial and temporal changes of sage-grouse habitat in the sagebrush biome</title>
+            <geoform>Technical Report</geoform>
+            <serinfo>
+              <sername>Oregon State University Agricultural Experiment Station</sername>
+              <issue>Technical Bulletin 151</issue>
+            </serinfo>
+            <onlink>https://ir.library.oregonstate.edu/concern/technical_reports/vx021g30s</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2001</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Miller and Eddleman</srccitea>
+        <srccontr>The floristic provinces were digitized from a figure from this source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>To produce the floristic province boundaries, Richard Miller provided us with a scanned version of a hand drawn figure used for the publication, after he added region seven, which includes the silver sagebrush subdivision. We then used ArcToolbox to digitize the floristic provinces.
+</procdesc>
+        <srcused>Miller and Eddleman</srcused>
+        <procdate>2003</procdate>
+        <srcprod>floristic_provinces_sgca</srcprod>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>14</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>38.0</stdparll>
+            <stdparll>41.0</stdparll>
+            <longcm>-114.0</longcm>
+            <latprjo>34.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.6096</absres>
+            <ordres>0.6096</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1927</horizdn>
+        <ellips>Clarke_1866</ellips>
+        <semiaxis>6378206.4</semiaxis>
+        <denflat>294.9786982</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>floristic_provinces_sgca</enttypl>
+        <enttypd>Vector geospatial file.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Unique row identifier</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Unbounded list of numbers</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Shape</attrlabl>
+  <attrdef>Feature geometry containing coordinates.</attrdef>
+  <attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Polygon</edomv>
+      <edomvd>Feature geometry</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Id</attrlabl>
+  <attrdef>Identification numbers corresponding to floristic provinces (Name attribute)</attrdef>
+  <attrdefs>USGS</attrdefs>
+  <attrdomv>
+    <edom>
+      <edomv>1</edomv>
+      <edomvd>Columbia Basin</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2</edomv>
+      <edomvd>Northern Great Basin</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>3</edomv>
+      <edomvd>Snake River Plain</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>4</edomv>
+      <edomvd>Wyoming Basin</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>5</edomv>
+      <edomvd>Southern Great Basin</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>6</edomv>
+      <edomvd>Colorado Plateau</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>7</edomv>
+      <edomvd>Silver Sagebrush Subdivision</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Name</attrlabl>
+  <attrdef>Floristic Province Name</attrdef>
+  <attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Colorado Plateau</edomv>
+      <edomvd>Colorado Platuea Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Columbia Basin</edomv>
+      <edomvd>Columbia Basin Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Northern Great Basin</edomv>
+      <edomvd>Northern Great Basin Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Silver Sagebrush Subdivision</edomv>
+      <edomvd>Silver Sagebrush Subdivision Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Snake River Plain</edomv>
+      <edomvd>Snake River Plain Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Southern Great Basin</edomv>
+      <edomvd>Southern Great Basin Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Wyoming Basin</edomv>
+      <edomvd>Wyoming Basin Floristic Province</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>.shp</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://www.sciencebase.gov/catalog/item/5953f7b0e4b062508e3c7c6c</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>No fees</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20111003</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>FRESC Metadata Coordinator</cntper>
+          <cntorg>USGS Forest and Rangeland Ecosystem Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>777 NW 9th, Suite 400</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97330</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-750-1030</cntvoice>
+        <cntemail>fresc_outreach@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+<metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+
+<metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
